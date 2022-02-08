@@ -10,4 +10,4 @@
 
 [<img align="left" alt="email" width="24" src="https://www.svgrepo.com/show/32285/email.svg"/>][email]
 
-[email]: tnirvt@outlook.com
+[email]: mailto://tnirvt@outlook.com
