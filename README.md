@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there, I'm Terry
 
-<!--
-**TNirvT/tnirvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My projects
 
-Here are some ideas to get you started:
+🛍 [ShopList](https://github.com/TNirvT/Shoplist) - A price tracking web application, using React front end, Python back end and MySQL database  
+🔒 [Passwordword Manager](https://github.com/TNirvT/Password-Manager-Web) - Web version of Password Manager project, using React front end, Python back end and SQLite database  
+🔒 [Passwordword Manager(Command Line)](https://github.com/TNirvT/Password-Manager-Web) - A basic command line project to store encrypted password, using Python and SQLite  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect  with me
+
+[<img align="left" alt="email" width="24" src="https://www.svgrepo.com/show/32285/email.svg"/>][email]
+
+[email]: tnirvt@outlook.com
